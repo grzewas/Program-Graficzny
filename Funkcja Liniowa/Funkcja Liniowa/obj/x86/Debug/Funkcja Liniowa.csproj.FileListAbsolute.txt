@@ -1,0 +1,14 @@
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Funkcja Liniowa\bin\Debug\Funkcja Liniowa.exe
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Funkcja Liniowa\bin\Debug\Funkcja Liniowa.pdb
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Funkcja Liniowa\obj\x86\Debug\Funkcja_Liniowa.Form1.resources
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Funkcja Liniowa\obj\x86\Debug\Funkcja_Liniowa.Properties.Resources.resources
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Funkcja Liniowa\obj\x86\Debug\Funkcja Liniowa.csproj.GenerateResource.Cache
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Funkcja Liniowa\obj\x86\Debug\Funkcja Liniowa.exe
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Funkcja Liniowa\obj\x86\Debug\Funkcja Liniowa.pdb
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Funkcja Liniowa\Funkcja Liniowa\obj\x86\Debug\Funkcja Liniowa.exe
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Funkcja Liniowa\Funkcja Liniowa\obj\x86\Debug\Funkcja Liniowa.pdb
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Funkcja Liniowa\Funkcja Liniowa\bin\Debug\Funkcja Liniowa.exe
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Funkcja Liniowa\Funkcja Liniowa\bin\Debug\Funkcja Liniowa.pdb
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Funkcja Liniowa\Funkcja Liniowa\obj\x86\Debug\Funkcja_Liniowa.Form1.resources
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Funkcja Liniowa\Funkcja Liniowa\obj\x86\Debug\Funkcja_Liniowa.Properties.Resources.resources
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Funkcja Liniowa\Funkcja Liniowa\obj\x86\Debug\Funkcja Liniowa.csproj.GenerateResource.Cache
